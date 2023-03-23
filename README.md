@@ -1,2 +1,10 @@
-# Utility_Smart_Contract_STBU
-Stobox Token [STBU] is a native utility token of the Stobox Dasboard platform, one of the products o
+# Stobox_Utility_token_v.2.0
+
+STBU_Plygonscan_0xcf403036bc139d30080d2cf0f5b48066f98191bb
+https://polygonscan.com/address/0xcf403036bc139d30080d2cf0f5b48066f98191bb#code
+
+STBU_BscScan_0xb0c4080a8Fa7afa11a09473f3be14d44AF3f8743
+https://bscscan.com/token/0xb0c4080a8Fa7afa11a09473f3be14d44AF3f8743
+
+STBU_Etherscan_0xa6422E3E219ee6d4C1B18895275FE43556fd50eD
+https://etherscan.io/token/0xa6422e3e219ee6d4c1b18895275fe43556fd50ed
